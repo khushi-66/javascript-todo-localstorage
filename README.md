@@ -56,12 +56,12 @@ It highlights:
 
 ![Add Todo](./screenshots/add.jpeg)
 
----
-![Remove Todo](./screenshots/Remove.jpeg)
+
+![Remove Todo](./screenshots/remove.jpeg)
 
 ### 💾 Data Persistence (LocalStorage)
 
-![Storage](./screenshots/completd.jpeg)
+![Storage](./screenshots/completed.jpeg)
 
 ### 📱 Mobile View
 
