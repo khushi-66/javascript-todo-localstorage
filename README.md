@@ -54,8 +54,11 @@ It highlights:
 
 ### ✅ Task Management
 
+### Add Todo
+
 ![Add Todo](./screenshots/add.jpeg)
 
+### Remove Todo
 
 ![Remove Todo](./screenshots/remove.jpeg)
 
